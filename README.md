@@ -40,18 +40,17 @@ Automated testing project for [OpenWeatherMap](https://openweathermap.org/) usin
 | Allure | Test reporting |
 | GitHub Actions | CI/CD |
 
----
 
 ## 📁 Project Structure
+
+```
 weather-automation/
 ├── tests/        # Test files
 ├── pages/        # Page Object Model classes
 ├── utils/        # Helper functions
 ├── conftest.py   # Fixtures
 └── README.md
-
-
----
+```
 
 ## 🚀 How to Run
 
