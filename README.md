@@ -11,6 +11,7 @@ Automated testing project for [OpenWeatherMap](https://openweathermap.org/) usin
 - Combine UI and API testing
 - Generate test reports with Allure
 - Run tests automatically with GitHub Actions (CI/CD)
+---
 
 ---
 
